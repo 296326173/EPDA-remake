@@ -115,13 +115,7 @@ void Base::deleteAGateToBGate(cModule * childNodeHandle,cModule * parentNodeHand
     childNodeHandle->deleteGate("parent");
 }
 void Base::FindNodeWithinDistance(){
-    //SMART方案里，分发切片时需要考虑是否分发给Server，这里分发
-    //不是server节点，需要计算server节点之间的距离
-    if(strcmp(this->getClassName(),"Server")!=0){
-        Base *object = check_and_cast<Base *>(getModuleByPath("server"));
-        double distance = calculateDistance(object);
-        otherNodeList_.push_back(std::make_pair(distance,object));
-    }
+    //EPDA里，切片不分发给Server
     for(int i=0;i<NodeNumber_;++i){
         Base *object = check_and_cast<Base *>(getParentModule()->getSubmodule("nodes", i));
         //该节点不是自己，且不是自己 (this->calculateDistance(object) !=0)

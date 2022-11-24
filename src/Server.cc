@@ -150,10 +150,11 @@ void Server::handleMessage(cMessage *msg){
                 sendForDelayAndCalcEnergyConsumption(new cMessage("DataAggregate"),otherNodeList_[i].second,Type::sendMsg);
         }
     }
-    else if(strcmp(msg->getName(),"SlicingData") == 0){
-        calcEnergyConsumption(msg->getSenderModule(), Type::receiveData);//计算能耗
-        aggregationAndCalcEnergyConsumption(msg);
-    }
+    //因为不接受切片数据，所以这里不用谢了
+//    else if(strcmp(msg->getName(),"SlicingData") == 0){
+//        calcEnergyConsumption(msg->getSenderModule(), Type::receiveData);//计算能耗
+//        aggregationAndCalcEnergyConsumption(msg);
+//    }
     //接受到来自子节点的数据,Server已经是根节点了，就不需要记录子节点数目，然后继续上传数据了
     else if(strcmp(msg->getName(),"AggregateData") == 0){
         calcEnergyConsumption(msg->getSenderModule(), Type::receiveData);
