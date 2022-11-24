@@ -1,0 +1,2527 @@
+file 18308056 1669294898                                        
+version 3
+run General-0-20221124-21:01:07-45020
+attr configname General
+attr datetime 20221124-21:01:07
+attr datetimef 20221124-210107
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network Network
+attr processid 45020
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network Network
+
+vector 0 Network.nodes[170] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 1 Network.nodes[121] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 2 Network.nodes[71] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 3 Network.nodes[232] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 4 Network.nodes[11] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 5 Network.nodes[378] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 6 Network.nodes[58] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 7 Network.nodes[22] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 8 Network.nodes[325] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 9 Network.nodes[470] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 10 Network.nodes[199] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 11 Network.nodes[110] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 12 Network.nodes[435] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 13 Network.nodes[269] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 14 Network.nodes[352] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 15 Network.nodes[29] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 16 Network.nodes[436] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 17 Network.nodes[161] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 18 Network.nodes[391] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 19 Network.nodes[96] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 20 Network.nodes[439] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 21 Network.nodes[0] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 22 Network.nodes[135] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 23 Network.nodes[400] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 24 Network.nodes[125] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 25 Network.nodes[245] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 26 Network.nodes[208] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 27 Network.nodes[73] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 28 Network.nodes[348] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 29 Network.nodes[9] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 30 Network.nodes[493] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 31 Network.nodes[12] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 32 Network.nodes[105] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 33 Network.nodes[425] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 34 Network.nodes[124] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 35 Network.nodes[472] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 36 Network.nodes[4] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 37 Network.nodes[51] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 38 Network.nodes[350] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 39 Network.nodes[396] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 40 Network.nodes[107] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 41 Network.nodes[290] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 42 Network.nodes[25] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 43 Network.nodes[134] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 44 Network.nodes[37] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 45 Network.nodes[411] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 46 Network.nodes[202] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 47 Network.nodes[56] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 48 Network.nodes[461] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 49 Network.nodes[123] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 50 Network.nodes[206] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 51 Network.nodes[397] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 52 Network.nodes[40] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 53 Network.nodes[207] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 54 Network.nodes[388] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 55 Network.nodes[5] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 56 Network.nodes[217] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 57 Network.nodes[226] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 58 Network.nodes[39] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 59 Network.nodes[100] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 60 Network.nodes[326] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 61 Network.nodes[369] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 62 Network.nodes[236] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 63 Network.nodes[347] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 64 Network.nodes[189] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 65 Network.nodes[302] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 66 Network.nodes[218] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 67 Network.nodes[323] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 68 Network.nodes[431] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 69 Network.nodes[83] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 70 Network.nodes[115] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 71 Network.nodes[117] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 72 Network.nodes[78] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 73 Network.nodes[499] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 74 Network.nodes[65] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 75 Network.nodes[145] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 76 Network.nodes[422] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 77 Network.nodes[119] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 78 Network.nodes[185] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 79 Network.nodes[466] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 80 Network.nodes[483] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 81 Network.nodes[182] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 82 Network.nodes[6] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 83 Network.nodes[48] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 84 Network.nodes[370] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 85 Network.nodes[479] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 86 Network.nodes[148] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 87 Network.nodes[462] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 88 Network.nodes[456] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 89 Network.nodes[49] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 90 Network.nodes[242] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 91 Network.nodes[178] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 92 Network.nodes[44] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 93 Network.nodes[356] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 94 Network.nodes[328] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 95 Network.nodes[355] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 96 Network.nodes[160] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 97 Network.nodes[85] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 98 Network.nodes[138] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 99 Network.nodes[256] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 100 Network.nodes[222] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 101 Network.nodes[62] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 102 Network.nodes[129] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 103 Network.nodes[324] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 104 Network.nodes[235] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 105 Network.nodes[194] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 106 Network.nodes[278] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 107 Network.nodes[287] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 108 Network.nodes[491] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 109 Network.nodes[57] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 110 Network.nodes[315] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 111 Network.nodes[316] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 112 Network.nodes[250] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 113 Network.nodes[187] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 114 Network.nodes[128] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 115 Network.nodes[373] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 116 Network.nodes[289] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 117 Network.nodes[481] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 118 Network.nodes[444] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 119 Network.nodes[130] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 120 Network.nodes[120] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 121 Network.nodes[371] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 122 Network.nodes[419] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 123 Network.nodes[59] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 124 Network.nodes[211] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 125 Network.nodes[432] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 126 Network.nodes[32] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 127 Network.nodes[139] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 128 Network.nodes[237] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 129 Network.nodes[304] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 130 Network.nodes[414] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 131 Network.nodes[127] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 132 Network.nodes[174] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 133 Network.nodes[244] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 134 Network.nodes[259] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 135 Network.nodes[277] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 136 Network.nodes[344] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 137 Network.nodes[266] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 138 Network.nodes[365] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 139 Network.nodes[455] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 140 Network.nodes[36] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 141 Network.nodes[301] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 142 Network.nodes[190] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 143 Network.nodes[230] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 144 Network.nodes[463] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 145 Network.nodes[101] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 146 Network.nodes[144] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 147 Network.nodes[282] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 148 Network.nodes[260] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 149 Network.nodes[102] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 150 Network.nodes[94] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 151 Network.nodes[438] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 152 Network.nodes[156] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 153 Network.nodes[330] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 154 Network.nodes[430] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 155 Network.nodes[54] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 156 Network.nodes[495] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 157 Network.nodes[203] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 158 Network.nodes[114] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 159 Network.nodes[272] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 160 Network.nodes[46] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 161 Network.nodes[196] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 162 Network.nodes[465] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 163 Network.nodes[239] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 164 Network.nodes[293] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 165 Network.nodes[335] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 166 Network.nodes[23] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 167 Network.nodes[310] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 168 Network.nodes[219] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 169 Network.nodes[113] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 170 Network.nodes[320] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 171 Network.nodes[392] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 172 Network.nodes[180] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 173 Network.nodes[95] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 174 Network.nodes[317] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 175 Network.nodes[168] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 176 Network.nodes[152] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 177 Network.nodes[329] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 178 Network.nodes[482] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 179 Network.nodes[376] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 180 Network.nodes[246] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 181 Network.nodes[98] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 182 Network.nodes[3] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 183 Network.nodes[424] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 184 Network.nodes[333] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 185 Network.nodes[441] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 186 Network.nodes[434] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 187 Network.nodes[26] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 188 Network.nodes[353] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 189 Network.nodes[104] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 190 Network.nodes[469] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 191 Network.nodes[31] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 192 Network.nodes[224] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 193 Network.nodes[252] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 194 Network.nodes[380] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 195 Network.nodes[267] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 196 Network.nodes[415] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 197 Network.nodes[186] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 198 Network.nodes[468] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 199 Network.nodes[408] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 200 Network.nodes[358] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 201 Network.nodes[169] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 202 Network.nodes[291] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 203 Network.nodes[473] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 204 Network.nodes[297] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 205 Network.nodes[45] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 206 Network.nodes[153] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 207 Network.nodes[374] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 208 Network.nodes[452] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 209 Network.nodes[279] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 210 Network.nodes[68] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 211 Network.nodes[318] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 212 Network.nodes[407] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 213 Network.nodes[292] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 214 Network.nodes[354] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 215 Network.nodes[60] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 216 Network.nodes[321] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 217 Network.nodes[249] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 218 Network.nodes[314] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 219 Network.nodes[131] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 220 Network.nodes[437] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 221 Network.nodes[163] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 222 Network.nodes[271] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 223 Network.nodes[340] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 224 Network.nodes[2] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 225 Network.nodes[35] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 226 Network.nodes[284] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 227 Network.nodes[294] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 228 Network.nodes[484] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 229 Network.nodes[238] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 230 Network.nodes[416] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 231 Network.nodes[453] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 232 Network.nodes[464] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 233 Network.nodes[446] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 234 Network.nodes[92] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 235 Network.nodes[346] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 236 Network.nodes[280] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 237 Network.nodes[459] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 238 Network.nodes[476] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 239 Network.nodes[264] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 240 Network.nodes[381] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 241 Network.nodes[30] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 242 Network.nodes[191] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 243 Network.nodes[84] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 244 Network.nodes[227] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 245 Network.nodes[41] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 246 Network.nodes[157] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 247 Network.nodes[383] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 248 Network.nodes[368] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 249 Network.nodes[306] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 250 Network.nodes[77] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 251 Network.nodes[33] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 252 Network.nodes[28] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 253 Network.nodes[361] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 254 Network.nodes[336] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 255 Network.nodes[357] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 256 Network.nodes[428] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 257 Network.nodes[296] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 258 Network.nodes[91] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 259 Network.nodes[300] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 260 Network.nodes[363] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 261 Network.nodes[341] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 262 Network.nodes[402] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 263 Network.nodes[367] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 264 Network.nodes[93] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 265 Network.nodes[221] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 266 Network.nodes[490] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 267 Network.nodes[241] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 268 Network.nodes[67] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 269 Network.nodes[80] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 270 Network.nodes[1] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 271 Network.nodes[21] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 272 Network.nodes[200] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 273 Network.nodes[345] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 274 Network.nodes[192] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 275 Network.nodes[79] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 276 Network.nodes[81] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 277 Network.nodes[393] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 278 Network.nodes[141] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 279 Network.nodes[61] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 280 Network.nodes[327] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 281 Network.nodes[10] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 282 Network.nodes[53] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 283 Network.nodes[106] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 284 Network.nodes[342] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 285 Network.nodes[467] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 286 Network.nodes[450] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 287 Network.nodes[86] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 288 Network.nodes[460] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 289 Network.nodes[112] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 290 Network.nodes[362] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 291 Network.nodes[442] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 292 Network.nodes[412] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 293 Network.nodes[213] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 294 Network.nodes[247] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 295 Network.nodes[268] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 296 Network.nodes[15] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 297 Network.nodes[240] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 298 Network.nodes[485] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 299 Network.nodes[216] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 300 Network.nodes[24] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 301 Network.nodes[147] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 302 Network.nodes[480] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 303 Network.nodes[322] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 304 Network.nodes[165] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 305 Network.nodes[177] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 306 Network.nodes[172] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 307 Network.nodes[405] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 308 Network.nodes[313] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 309 Network.nodes[47] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 310 Network.nodes[275] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 311 Network.nodes[42] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 312 Network.nodes[458] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 313 Network.nodes[334] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 314 Network.nodes[337] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 315 Network.nodes[209] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 316 Network.nodes[212] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 317 Network.nodes[193] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 318 Network.nodes[225] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 319 Network.nodes[406] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 320 Network.nodes[339] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 321 Network.nodes[285] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 322 Network.nodes[116] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 323 Network.nodes[366] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 324 Network.nodes[133] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 325 Network.nodes[18] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 326 Network.nodes[88] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 327 Network.nodes[143] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 328 Network.nodes[389] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 329 Network.nodes[63] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 330 Network.nodes[273] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 331 Network.nodes[445] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 332 Network.nodes[229] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 333 Network.nodes[498] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 334 Network.nodes[319] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 335 Network.nodes[281] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 336 Network.nodes[274] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 337 Network.nodes[175] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 338 Network.nodes[14] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 339 Network.nodes[474] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 340 Network.nodes[167] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 341 Network.nodes[75] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 342 Network.nodes[103] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 343 Network.nodes[234] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 344 Network.nodes[303] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 345 Network.nodes[399] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 346 Network.nodes[176] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 347 Network.nodes[401] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 348 Network.nodes[154] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 349 Network.nodes[409] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 350 Network.nodes[215] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 351 Network.nodes[433] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 352 Network.nodes[384] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 353 Network.nodes[332] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 354 Network.nodes[423] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 355 Network.nodes[486] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 356 Network.nodes[496] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 357 Network.nodes[382] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 358 Network.nodes[253] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 359 Network.nodes[158] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 360 Network.nodes[195] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 361 Network.nodes[427] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 362 Network.nodes[20] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 363 Network.nodes[171] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 364 Network.nodes[108] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 365 Network.nodes[429] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 366 Network.nodes[126] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 367 Network.nodes[197] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 368 Network.nodes[255] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 369 Network.nodes[89] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 370 Network.nodes[497] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 371 Network.nodes[410] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 372 Network.nodes[379] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 373 Network.nodes[398] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 374 Network.nodes[262] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 375 Network.nodes[417] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 376 Network.nodes[492] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 377 Network.nodes[181] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 378 Network.nodes[440] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 379 Network.nodes[142] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 380 Network.nodes[276] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 381 Network.nodes[210] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 382 Network.nodes[223] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 383 Network.nodes[309] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 384 Network.nodes[254] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 385 Network.nodes[248] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 386 Network.nodes[184] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 387 Network.nodes[109] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 388 Network.nodes[50] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 389 Network.nodes[257] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 390 Network.nodes[243] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 391 Network.nodes[420] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 392 Network.nodes[205] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 393 Network.nodes[360] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 394 Network.nodes[298] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 395 Network.nodes[494] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 396 Network.nodes[312] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 397 Network.nodes[136] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 398 Network.nodes[489] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 399 Network.nodes[16] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 400 Network.nodes[288] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 401 Network.nodes[155] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 402 Network.nodes[447] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 403 Network.nodes[162] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 404 Network.nodes[343] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 405 Network.nodes[305] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 406 Network.nodes[137] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 407 Network.nodes[331] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 408 Network.nodes[394] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 409 Network.nodes[448] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 410 Network.nodes[426] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 411 Network.nodes[443] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 412 Network.nodes[27] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 413 Network.nodes[34] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 414 Network.nodes[8] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 415 Network.nodes[233] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 416 Network.nodes[311] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 417 Network.nodes[228] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 418 Network.nodes[386] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 419 Network.nodes[19] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 420 Network.nodes[76] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 421 Network.nodes[90] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 422 Network.nodes[338] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 423 Network.nodes[201] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 424 Network.nodes[122] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 425 Network.nodes[413] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 426 Network.nodes[377] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 427 Network.nodes[471] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 428 Network.nodes[82] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 429 Network.nodes[140] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 430 Network.nodes[150] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 431 Network.nodes[220] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 432 Network.nodes[478] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 433 Network.nodes[372] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 434 Network.nodes[475] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 435 Network.nodes[74] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 436 Network.nodes[308] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 437 Network.nodes[387] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 438 Network.nodes[188] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 439 Network.nodes[231] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 440 Network.nodes[64] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 441 Network.nodes[351] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 442 Network.nodes[13] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 443 Network.nodes[132] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 444 Network.nodes[258] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 445 Network.nodes[299] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 446 Network.nodes[179] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 447 Network.nodes[404] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 448 Network.nodes[166] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 449 Network.nodes[295] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 450 Network.nodes[214] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 451 Network.nodes[183] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 452 Network.nodes[270] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 453 Network.nodes[451] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 454 Network.nodes[349] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 455 Network.nodes[449] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 456 Network.nodes[359] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 457 Network.nodes[364] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 458 Network.nodes[146] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 459 Network.nodes[17] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 460 Network.nodes[265] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 461 Network.nodes[66] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 462 Network.nodes[487] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 463 Network.nodes[87] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 464 Network.nodes[151] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 465 Network.nodes[477] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 466 Network.nodes[204] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 467 Network.nodes[7] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 468 Network.nodes[395] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 469 Network.nodes[261] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 470 Network.nodes[173] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 471 Network.nodes[403] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 472 Network.nodes[375] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 473 Network.nodes[454] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 474 Network.nodes[55] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 475 Network.nodes[111] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 476 Network.nodes[97] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 477 Network.nodes[38] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 478 Network.nodes[118] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 479 Network.nodes[70] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 480 Network.nodes[149] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 481 Network.nodes[457] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 482 Network.nodes[418] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 483 Network.nodes[390] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 484 Network.nodes[69] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 485 Network.nodes[99] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 486 Network.nodes[198] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 487 Network.nodes[307] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 488 Network.nodes[385] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 489 Network.nodes[43] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 490 Network.nodes[251] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 491 Network.nodes[159] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 492 Network.nodes[72] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 493 Network.nodes[263] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 494 Network.nodes[421] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 495 Network.nodes[52] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 496 Network.nodes[488] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 497 Network.nodes[164] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 498 Network.nodes[283] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 499 Network.nodes[286] remainEnergy:vector ETV
+attr recordingmode vector
+attr source Energy
+attr title Energy
+vector 500 Network.server LossRate:vector ETV
+attr recordingmode vector
+attr source PacketLossRate
+attr title PacketLossRate
+0	60860 48535 503 285258 1.000000046308 242.300000046308 1143 -0.0025442528757769 0.499992 430.78457891722 184.23453905444
+1	109395 27444 504 184427 1.000000063333 127.300000063333 645 -9.5966715000682e-05 0.499992 171.67096873137 57.678803275961
+2	136839 55295 505 328962 1.00000006549 300.30000006549 1327 -0.00058755634097075 0.499992 508.55662984199 214.24553248735
+3	192134 28116 506 186987 1.000000065744 129.600000065744 660 -0.00013058928947459 0.499992 171.948445472 57.786982619732
+4	220250 27066 507 186397 1.000000071336 129.300000071336 636 -0.0022359684063417 0.499992 167.28116257574 56.011814640824
+5	247316 69247 510 377562 1.000000086923 373.600001655081 1635 0.2817393205594 0.499992 643.41170222487 260.51321230631
+6	316563 25692 511 174315 1.000000088003 117.300000088003 604 -0.002366402937425 0.499992 165.73552276354 57.34956802423
+7	342255 25717 512 179422 1.000000089443 122.300000089443 605 -0.0012188385334027 0.499992 158.50849305577 52.691068889611
+8	367972 26006 516 179424 1.000000101379 122.300000101379 611 -0.00015143225667911 0.499992 156.51569501086 52.57595951123
+9	393978 25796 518 172192 1.00000011005 115.30000011005 619 -0.0020638851727572 0.499992 160.99268098806 54.053967677222
+10	419774 25284 524 164471 1.000000135974 108.300000135974 581 -0.0029698498715736 0.499992 147.61907751009 49.502677555835
+11	445058 63274 529 349985 1.000000148511 331.300000148511 1453 -0.0013472170676811 0.499992 543.91822536464 223.18679926732
+12	508332 25703 531 167840 1.000000153478 111.300000153478 592 -0.00047325941621755 0.499992 152.85379163159 51.440962139992
+13	534035 68337 536 377587 1.000000162788 373.600002640195 1560 0.25192196091682 0.499992 603.27560818335 241.98462976406
+14	602372 25632 540 171115 1.000000178045 114.300000178045 590 -0.0026766829065104 0.499992 157.90306496446 53.635048326734
+15	628004 24289 542 171116 1.000000181353 114.300000181353 558 -0.00076291281481891 0.499992 146.49037868487 49.882835805877
+16	652293 23358 543 160483 1.000000181353 104.600000181353 539 -0.00015245584616305 0.499992 141.91031460236 47.849335089745
+17	675651 35256 546 342677 1.000000185233 320.300000206725 828 0.38091873729769 0.499992 369.3524681912 165.87133441823
+18	710907 23872 549 164479 1.000000186786 108.300000186786 552 -0.0010920477588415 0.499992 150.38277532704 51.472176227688
+19	734779 26265 558 173270 1.000000198942 116.300000198942 604 -0.00010924558608514 0.499992 160.06465228943 54.348475549885
+20	761044 22020 561 152633 1.000000203525 98.300000203525 509 -6.9691673776394e-05 0.499992 128.86964788988 42.675738623508
+21	783064 26661 563 182460 1.000000207257 125.300000207257 611 -0.00081122626097574 0.499992 164.77610608187 56.192391105864
+22	809725 25674 564 162396 1.000000207552 106.300000722635 591 -0.00021107949989148 0.499992 152.93259018909 52.721123466776
+23	835399 24607 566 172208 1.000000211896 115.300000211896 565 -0.00010312382951535 0.499992 145.89475779724 49.57212325697
+24	860006 23934 571 166747 1.000000216667 110.300000216667 551 -8.4591090177375e-05 0.499992 147.37480019852 50.390883546907
+25	883940 22890 580 168952 1.000000223557 112.300000223557 528 -0.0030626686462416 0.499992 138.68554658632 46.228295633139
+26	906830 25250 582 173890 1.000000224524 116.600000224524 581 -1.9038792321675e-05 0.499992 156.45899220494 53.184723365237
+27	932080 53625 584 319738 1.000000229589 287.300000229589 1229 -0.00048636172974937 0.499992 459.17864398786 189.31195954095
+28	985705 25071 589 174338 1.000000231421 117.300000231421 575 -0.0020426647500361 0.499992 155.18630532639 52.867268179341
+29	1010776 24492 595 175380 1.000000237954 118.300000237954 563 -0.0007706298249802 0.499992 144.7612304224 48.855208298961
+30	1035268 23512 602 165630 1.000000243698 109.300000243698 543 -0.0018456740901863 0.499992 138.06039312334 44.895443879974
+31	1058780 22671 608 164494 1.000000254406 108.300000254406 521 -0.00041432256982782 0.499992 135.94834025078 46.863879518462
+32	1081451 23292 612 167861 1.00000025807 111.30000025807 543 -0.00072824361576008 0.499992 131.5398444086 42.996175697723
+33	1104743 20454 626 151428 1.000000280713 97.300000280713 472 -0.003101118362419 0.499992 119.62124998618 40.122663674134
+34	1125197 23785 628 162186 1.000000281997 106.300000281997 548 -0.00092257721842559 0.499992 142.81073664784 47.739902579057
+35	1148982 64483 631 377553 1.000000283647 373.600001467722 1473 0.18399847984999 0.499992 527.8295992688 202.78605283775
+36	1213465 22848 634 161013 1.00000029044 105.30000029044 534 -0.0023291856560441 0.499992 139.40517407674 46.691937978733
+37	1236313 51050 638 304786 1.000000293806 267.300000293806 1175 -0.0017743584285277 0.499992 437.73344077742 179.22474499366
+38	1287363 24150 639 174348 1.000000294279 117.300000294279 555 -0.0043094612243375 0.499992 145.00118626038 49.792883573123
+39	1311513 22918 656 165639 1.000000311359 109.300000311359 527 -6.5638419395594e-05 0.499992 136.97740466829 46.169152652709
+40	1334431 24533 657 171142 1.000000311591 114.300000311591 564 -0.0023317032148548 0.499992 143.12592171685 48.005062909599
+41	1358964 70246 663 377589 1.000000318974 373.600002688631 1605 0.13704596263821 0.499992 533.65529389678 197.07290132813
+42	1429210 21729 667 155746 1.000000321282 100.600000321282 501 -0.00062041014824557 0.499992 128.93614369671 42.953669188388
+43	1450939 22761 672 165644 1.000000323608 109.300000323608 524 -0.0010921210772622 0.499992 135.59992394673 45.243402377463
+44	1473700 22806 680 163360 1.000000327635 107.300000327635 525 -0.00013627710339424 0.499992 132.65060854959 43.931322798411
+45	1496506 66831 683 377549 1.000000329478 373.60000136699 1538 0.10125767226095 0.499992 498.34682303397 184.26197301216
+46	1563337 21345 693 157469 1.000000339542 102.300000339542 494 -0.0049059063722016 0.499992 136.76565695125 48.05397051296
+47	1584682 68571 698 377601 1.000000344513 373.600003224281 1570 0.054406529202022 0.499992 481.02980304251 176.30318410087
+48	1653253 19892 710 140931 1.000000351268 88.600000351268 459 -0.00047126319823137 0.499992 115.56910053932 38.610985457412
+49	1673145 20770 719 152667 1.000000357336 98.300000357336 480 -0.0049422039687802 0.499992 121.81970775772 41.170287629033
+50	1693915 59394 722 337783 1.000000359289 312.600000359289 1364 -0.00016602826876624 0.499992 440.74729528004 165.30607826852
+51	1753309 20870 723 151449 1.000000359336 97.300000359336 482 -4.162031115135e-05 0.499992 123.39497274553 41.660679105705
+52	1774179 19595 726 158663 1.000000360771 103.300000360771 452 -0.00057039802884136 0.499992 112.32470181041 37.332299266984
+53	1793774 22606 738 163373 1.000000365453 107.300000365453 520 -0.00042515930970714 0.499992 129.91145285709 43.086743608523
+54	1816380 19545 747 145261 1.00000037012 92.30000037012 458 -0.0017133625646716 0.499992 115.3870584205 38.004228769514
+55	1835925 48567 757 361561 1.000000372216 348.300001119057 1118 0.15201369428665 0.499992 389.30967722788 148.60070077336
+56	1884492 18053 758 141506 1.000000372216 89.300000372216 418 -0.0024370041997568 0.499992 105.7180203862 35.140391566322
+57	1902545 63733 760 362303 1.000000374818 349.600001154011 1449 -0.00039813489629533 0.499992 407.71637999138 148.48654654896
+58	1966278 55354 765 327400 1.000000377742 297.600000377742 1267 -0.0010484899376646 0.499992 392.42460258585 145.28777774893
+59	2021632 17400 768 131327 1.000000378843 81.300000798438 404 -0.00013228213683902 0.499992 109.67604954593 37.089844410387
+60	2039032 59655 778 355843 1.000000381605 339.600001138498 1359 -0.00014260861288721 0.499992 386.06205433971 141.59474553609
+61	2098687 21810 782 162307 1.000000384202 106.300000578576 503 -1.3802205644947e-05 0.499992 132.99113517336 45.389095554315
+62	2120497 17382 783 128370 1.000000385069 79.300000385069 402 -0.00013017625665571 0.499992 98.911265545967 32.229333611175
+63	2137879 19180 795 153892 1.00000038737 99.30000038737 449 -0.0030952869583629 0.499992 118.68699294908 40.150978593269
+64	2157059 22109 813 162860 1.000000391479 106.600000391479 509 -0.0010767686459419 0.499992 133.3766567846 45.442886937183
+65	2179168 18624 818 147777 1.000000393305 94.300000393305 431 -0.00018820304625882 0.499992 111.9475155216 38.199054094766
+66	2197792 17994 819 137653 1.000000393559 86.300000393559 416 -7.6253883218728e-05 0.499992 108.57510407008 37.420928821158
+67	2215786 55326 833 321793 1.000000400888 289.600001770315 1265 -0.00048801152379099 0.499992 369.68761536738 137.7096641353
+68	2271112 18235 837 138956 1.000000402672 87.300000402672 423 -0.0022093507034748 0.499992 108.86561545681 37.328001120971
+69	2289347 17018 841 138957 1.000000404777 87.300000404777 394 -0.0046320596082808 0.499992 98.731022696366 33.147772500732
+70	2306365 18860 850 138374 1.000000408167 86.600000408167 437 -3.4292614541669e-05 0.499992 120.35057212534 42.429461510226
+71	2325225 18355 855 140948 1.00000040924 88.60000040924 431 -0.00075749203452872 0.499992 109.82416167281 36.470713338973
+72	2343580 19524 858 147785 1.000000411947 94.300000411947 451 -0.0031328565292823 0.499992 114.75873824994 38.102849493359
+73	2363104 18689 870 134450 1.000000416787 83.600000416787 432 -0.0014775078594884 0.499992 110.86851740875 37.481181102439
+74	2381793 30184 871 373115 1.000000417 366.300001478334 727 0.26491293291853 0.499992 289.65152306662 120.03453003475
+75	2411977 18401 879 140252 1.000000420423 88.300000420423 426 -0.0040898048356636 0.499992 108.86511031869 36.775932917817
+76	2430378 18037 886 136364 1.000000421914 85.300000421914 417 -6.6665412928045e-05 0.499992 100.442996833 32.589851671414
+77	2448415 17846 887 141532 1.000000422085 89.300000422085 412 -0.00097854428594555 0.499992 100.01338882639 33.172501156804
+78	2466261 19265 891 146551 1.000000422598 93.300000422598 446 -0.0005856391078844 0.499992 118.86253203757 40.679458763469
+79	2485526 47563 893 294618 1.000000422821 253.60000240576 1097 -2.7438008857407e-06 0.499992 319.4053114433 119.14188588632
+80	2533089 15440 896 131086 1.00000042412 81.30000042412 363 -0.0021698698301881 0.499992 87.266465218629 28.229756766321
+81	2548529 18831 901 147795 1.000000425271 94.300000425271 435 -0.0011921525058807 0.499992 113.05616768229 37.461868909449
+82	2567360 18883 906 136370 1.000000425937 85.300000425937 437 -0.0041343468440181 0.499992 110.44511612093 36.695130273102
+83	2586243 45866 910 286746 1.000000427096 243.600002006561 1062 -0.00071233610898297 0.499992 311.59648567305 116.78108512512
+84	2632109 15422 913 122961 1.00000042772 75.30000042772 362 -0.00011471847294396 0.499992 85.785912954977 27.972143428298
+85	2647531 48940 914 283640 1.000000427733 239.600003404196 1126 -0.0014186222401507 0.499992 335.36412326138 126.26704742856
+86	2696471 19304 924 142794 1.000000431342 90.300000431342 446 -0.0010328610591874 0.499992 112.88669106435 38.037074694438
+87	2715775 18400 936 135061 1.000000434767 84.300000434767 425 -0.0012441221152284 0.499992 108.1461431991 36.692034827518
+88	2734175 15614 958 128401 1.000000441336 79.300000441336 362 -0.00060931307775609 0.499992 95.467836863119 32.873980435455
+89	2749789 16750 965 131098 1.000000444085 81.300000444085 387 -0.0010833850000105 0.499992 95.07964794305 32.016312873384
+90	2766539 16990 975 132431 1.000000447909 82.300000447909 393 -0.001147391822657 0.499992 98.395680038286 32.253800455952
+91	2783529 14860 977 124344 1.000000448863 76.300000448863 345 -0.00018086601974504 0.499992 90.548138773664 30.978226280935
+92	2798389 41352 981 254396 1.000000450691 204.600006485177 968 -8.7089051298755e-05 0.499992 286.66359785552 108.27390214941
+93	2839741 23007 1000 138990 1.000000453199 87.300000453199 544 -0.00091126546581239 0.499992 174.68240537247 69.728811725835
+94	2862748 15160 1001 122977 1.000000453382 75.300000453382 352 -0.0011600445618696 0.499992 90.622029089885 30.623364036679
+95	2877908 15589 1037 131108 1.000000466488 81.300000466488 361 -0.00024494691530222 0.499992 91.847979119514 31.119636473964
+96	2893497 38780 1045 234385 1.000000469669 181.600003134531 893 -0.0016507889011362 0.499992 267.09390990781 101.1966906136
+97	2932277 16490 1049 130485 1.000000470295 80.600000470295 381 -0.002276460165539 0.499992 96.108903866623 32.938781373265
+98	2948767 13430 1052 121608 1.000000470756 74.300000470756 311 -0.0013373360463996 0.499992 77.995151531902 26.117668258595
+99	2962197 15713 1063 127063 1.000000474716 78.300000474716 364 -0.00058883437679639 0.499992 92.463404222322 31.231549326585
+100	2977910 14116 1068 123014 1.000000477505 75.300000538841 320 -0.00015073637252898 0.499992 80.711839664323 26.765555466254
+101	2992026 14148 1073 117437 1.00000048015 71.30000048015 326 -0.0011690185467273 0.499992 82.986395019278 28.282206043775
+102	3006174 15342 1074 122990 1.000000480463 75.300000480463 348 -0.00012424041056725 0.499992 83.888025954019 27.477491422291
+103	3021516 37418 1084 217338 1.000000483896 162.600000926019 845 -0.0013001788833111 0.499992 254.74487208839 97.073904378879
+104	3058934 14593 1088 120405 1.000000484883 73.300000750898 330 -0.00013858392462349 0.499992 80.420617708597 27.048307412064
+105	3073527 15942 1096 121618 1.00000048637 74.30000048637 366 -0.0021355187532029 0.499992 91.885064852148 30.840515621951
+106	3089469 14354 1119 119588 1.000000491132 72.600000491132 325 -0.0023126280365669 0.499992 88.282980028066 31.368028678427
+107	3103823 14891 1187 117452 1.000000508516 71.300000508516 338 -0.0009218816424295 0.499992 85.341601851484 28.084621777536
+108	3118714 12240 1219 110419 1.000000516935 66.300000516935 278 -0.0047118427867401 0.499992 64.723293200436 20.893325662194
+109	3130954 12827 1255 109012 1.000000526044 65.300000526044 292 -0.0048224478848809 0.499992 77.690492621064 26.755590567014
+110	3143781 13036 1259 104725 1.000000527994 62.300000527994 297 -0.0010170797383847 0.499992 70.81151530032 22.6205720143
+111	3156817 13351 1261 116801 1.000000528152 70.600000528152 303 -0.0030871969247786 0.499992 76.92583775837 25.904554665492
+112	3170168 12965 1266 101854 1.000000529759 60.300000529759 295 -0.0014830985990505 0.499992 71.506669972745 23.434135139722
+113	3183133 12860 1269 112588 1.000000530293 67.600000530293 292 -0.0031081544401022 0.499992 71.228883403053 23.380004935659
+114	3195993 12701 1280 108350 1.000000533333 64.600000533333 289 -0.0010027194321606 0.499992 73.949914921922 24.779531695801
+115	3208694 12766 1281 100415 1.000000533385 59.300000533385 291 -0.00061932426290296 0.499992 74.140487108841 24.935353466106
+116	3221460 26594 1315 172171 1.00000053965 114.600005827162 610 -0.00090040447216505 0.499992 188.82524514653 73.600750903549
+117	3248054 13784 1316 108351 1.000000539897 64.600000539897 313 -0.0022794914391814 0.499992 76.65237435552 25.365412129941
+118	3261838 28407 1344 165368 1.000000546524 108.600001635855 651 -0.001635834071367 0.499992 196.63641469592 76.148845162461
+119	3290245 13163 1359 108352 1.000000548746 64.600000548746 299 -0.0011360184135043 0.499992 72.072121365821 23.81909616319
+120	3303408 12715 1367 105495 1.000000550252 62.600000550252 289 -0.0017976941644745 0.499992 66.116929862072 21.346093914233
+121	3316123 27548 1375 160850 1.000000552338 104.600002602552 631 -0.0042214436714578 0.499992 194.91074752863 77.225456165124
+122	3343671 11381 1429 96085 1.000000565263 56.300000565263 259 -0.0006064541136806 0.499992 66.174513557441 22.054807374059
+123	3355052 25521 1453 147875 1.000000569522 94.300000608422 587 -0.00012389685481692 0.499992 184.16466253055 73.328163356189
+124	3380573 11458 1474 96104 1.000000573769 56.30000059358 261 -8.3595117708656e-05 0.499992 65.380745039461 21.568437564251
+125	3392031 12014 1486 96857 1.000000575509 56.600000575509 273 -0.0045350172817471 0.499992 64.794848440899 21.653693838398
+126	3404045 15236 1501 91035 1.000000577062 52.600000577062 355 -0.0024883571988603 0.499992 117.83104905698 48.940651684266
+127	3419281 22549 1504 142343 1.000000577235 89.600001099495 518 -0.00020372010986216 0.499992 157.55613103935 60.912359659277
+128	3441830 23467 1510 141299 1.000000578004 88.600002529571 539 -0.0029669860176702 0.499992 165.93390183225 64.805623907191
+129	3465297 23324 1522 138593 1.000000580814 86.600001425862 538 -0.00042439282647794 0.499992 167.711408887 66.438064352172
+130	3488621 24115 1529 138624 1.000000582409 86.600001598878 557 -0.0016009243316619 0.499992 180.01311414199 72.539388204909
+131	3512736 65911 1580 377588 1.000000590365 373.600002642607 1462 0.21106768401613 0.499992 532.18202377824 204.23455829625
+132	3578647 76469 1583 317676 1.000000591237 284.300000591232 1706 -3.4100005229972e-06 0.499992 569.92975835969 212.26659161186
+133	3655116 55835 1600 361740 1.000000594489 348.600004814891 1281 -0.00030861686815566 0.499992 487.82046994923 199.46733777412
+134	3710951 23634 1607 187498 1.000000596445 130.300000596369 529 -0.0039341475453594 0.499992 135.33576144039 44.661744012465
+135	3734585 34688 1613 238956 1.000000598176 187.30000059742 778 -0.0018253862284369 0.499992 259.44398416639 102.88868742695
+136	3769273 60068 1614 377527 1.000000598549 373.60000093028 1387 0.077756969827914 0.499992 485.35970432849 181.33252629294
+137	3829341 23870 1664 172968 1.000000605377 115.600001296835 538 -0.00099717039755364 0.499992 141.76071376409 48.498039344999
+138	3853211 59125 1666 373193 1.000000606009 366.600002496823 1318 -0.00044083401113966 0.499992 440.5014105405 174.76581014156
+139	3912336 49580 1683 377582 1.00000060928 373.600002398325 1188 0.22632115104 0.499992 436.7483863584 168.11754870959
+140	3961916 16098 1692 132505 1.000000610272 82.300000599796 364 -0.0016133932929146 0.499992 93.085508427992 31.097809142521
+141	3978014 24788 1721 187509 1.000000615791 130.300000615729 557 -0.0017670936727414 0.499992 204.47101912594 84.511024774641
+142	4002802 27676 1729 347795 1.000000617038 327.300001163547 622 0.3355742883755 0.499992 266.48894038258 115.59118420652
+143	4030478 54452 1746 374404 1.000000619437 368.600001132854 1200 -0.00089601671403343 0.499992 316.58472264499 109.4193296184
+144	4084930 54078 1754 335332 1.000000620295 309.300000613415 1207 -0.00047651774666123 0.499992 437.57287506984 177.30615477655
+145	4139008 19621 1759 158786 1.000000621767 103.300000613985 442 -0.0025658758205406 0.499992 110.50736385852 36.872122344547
+146	4158629 22441 1773 142309 1.000000624447 89.600000977975 516 -0.0038052262737148 0.499992 155.75485372288 60.740731744443
+147	4181070 60563 1795 377577 1.000000627857 373.600002175126 1337 0.12214296430769 0.499992 434.15994605356 156.27044239566
+148	4241633 39033 1824 244773 1.000000632279 193.600001746183 881 -0.0013733956300243 0.499992 262.81778174126 100.02862562235
+149	4280666 28819 1838 148786 1.000000633941 94.600002437613 662 -0.00028551230089662 0.499992 205.77757460548 80.669388790556
+150	4309485 37941 1853 280590 1.00000063552 236.300000635024 878 -0.0033271461324686 0.499992 321.49673442613 135.76732882966
+151	4347426 41712 1861 300113 1.000000637179 260.600005810288 990 -0.00121919610798 0.499992 376.69485650485 155.866280357
+152	4389138 41497 1875 281409 1.000000639233 237.300000639201 959 -0.00021068319247618 0.499992 334.18863080968 136.74888112679
+153	4430635 19640 1881 161960 1.000000640347 105.600001975349 444 -0.0027025893603851 0.499992 116.18983458268 39.737466981824
+154	4450275 41990 1883 244704 1.000000640855 193.600001204399 947 -0.0031515794845374 0.499992 366.32363063804 159.27869958845
+155	4492265 40465 1900 268996 1.000000643308 222.300000642789 897 -0.00025892919512637 0.499992 302.003719216 115.11922792194
+156	4532730 40328 1942 288983 1.0000006482 246.600000648186 940 -0.0013965788758009 0.499992 342.5452477368 142.24806680583
+157	4573058 59544 1945 342575 1.000000648844 319.600001302623 1349 -0.003867546708444 0.499992 520.2403437146 218.01501192863
+158	4632602 24624 1958 182606 1.000000651096 125.300000651093 553 -0.0019475893602224 0.499992 147.14729302262 51.141166451775
+159	4657226 29823 1959 372988 1.000000651197 366.300000980577 678 0.40640233728443 0.499992 309.73107059975 142.07496494633
+160	4687049 58026 1968 350511 1.000000653123 331.600000646976 1282 -0.0001144462093639 0.499992 428.89854412783 161.59516458127
+161	4745075 47196 1988 334434 1.000000656709 307.600001601672 1137 -0.0035745020505097 0.499992 452.47438517579 190.57914921578
+162	4792271 40601 1990 289849 1.000000656923 247.60000138044 951 -0.0034930964848903 0.499992 356.87878891464 148.78931921867
+163	4832872 85606 2004 377515 1.000000659634 373.600000637356 1894 0.02906159927568 0.499992 608.57175136179 219.00682194461
+164	4918478 52753 2018 228993 1.000000662008 175.600001536579 1185 -0.0017572223649813 0.499992 435.91417125585 182.04942005036
+165	4971231 97131 2019 377571 1.000000662598 373.60000193384 2142 0.0086115592162212 0.499992 557.70214813426 189.36949032522
+166	5068362 60465 2038 377595 1.000000665847 373.600002902947 1336 0.13334092946064 0.499992 430.91288147134 154.17057067949
+167	5128827 46637 2069 369289 1.000000669032 360.300001296944 1060 0.26717929076388 0.499992 418.73302163092 171.00465554235
+168	5175464 58793 2072 377516 1.000000669907 373.600000661018 1343 0.18886954306507 0.499992 534.50918594427 218.56448050791
+169	5234257 56127 2080 377575 1.000000671253 373.600002022672 1343 0.20373480192 0.499992 481.95902803968 183.05834355095
+170	5290384 23164 2086 186024 1.000000672301 128.600000717119 519 -0.0028014088310799 0.499992 135.17848062983 46.22569430032
+171	5313548 56236 2088 336727 1.000000672539 311.300000662663 1254 -0.00092753782551446 0.499992 450.65903758066 181.87677432399
+172	5369784 51062 2110 341238 1.000000675519 317.600001495684 1127 -0.0067146231220248 0.499992 410.28862498015 160.09957800786
+173	5420846 38199 2122 273174 1.000000676915 227.30000066937 852 -0.0040002938399302 0.499992 279.46586700468 107.59544649002
+174	5459045 56309 2138 377573 1.000000679723 373.600002010067 1341 0.27002951232 0.499992 520.00113930592 207.6588209577
+175	5515354 20666 2140 178027 1.000000680014 120.600000674702 464 -7.5814605406416e-05 0.499992 113.17423604474 36.766405087242
+176	5536020 62718 2142 362962 1.000000680431 350.600001475696 1402 -0.00098393686597945 0.499992 560.22551564637 234.37914454273
+177	5598738 39867 2260 252868 1.000000698665 203.300000697177 897 -0.00071440081912 0.499992 299.26893396692 117.13881721985
+178	5638605 29075 2309 232393 1.00000070513 179.600000704785 683 -0.0082723653523269 0.499992 274.28952779741 118.08941828914
+179	5667680 39510 2311 262020 1.000000705418 213.600002898782 876 -0.011057747359129 0.499992 345.95306306641 145.83458865213
+180	5707190 20537 2325 178584 1.000000706847 121.300000692315 461 -0.00084784283100774 0.499992 112.85939947026 36.231849504367
+181	5727727 33264 2335 252874 1.000000708314 203.3000007075 786 -0.00028347223590552 0.499992 300.8206719816 129.73457421777
+182	5760991 36498 2339 283054 1.000000708733 239.300000698729 842 -0.0015943959971577 0.499992 291.50375683134 120.34597543477
+183	5797489 51716 2354 358714 1.000000710105 344.300000672846 1202 -0.0029937693078009 0.499992 441.25038183762 181.04263743595
+184	5849205 57552 2364 342606 1.000000711858 319.600001877185 1282 -0.0037717488463436 0.499992 386.91152379688 141.03648451251
+185	5906757 23657 2374 187554 1.000000713026 130.30000071257 538 -0.0017949883465712 0.499992 134.64453258219 44.34432712808
+186	5930414 30080 2376 243139 1.000000713111 191.600003352481 707 -0.002863394884002 0.499992 251.73227201017 106.17487146731
+187	5960494 55071 2428 371237 1.000000719555 363.600001024901 1294 -0.002137439500527 0.499992 502.61321743356 207.29265670182
+188	6015565 22384 2433 185595 1.000000720697 128.300000683626 503 -0.00072012848525361 0.499992 136.12020502389 46.578197780223
+189	6037949 57263 2435 377598 1.000000721047 373.600003038828 1328 0.30828289696001 0.499992 538.61203422336 222.58034934445
+190	6095212 65612 2442 377596 1.000000721722 373.600002998139 1465 0.29817802023424 0.499992 594.12504726526 246.37508650839
+191	6160824 54710 2453 377600 1.000000723475 373.600003128325 1282 0.28977969920001 0.499992 507.79624938241 205.92918628074
+192	6215534 44532 2456 304647 1.000000723987 266.60000170967 991 -0.0073705537466723 0.499992 375.20472463666 150.34820986746
+193	6260066 45124 2458 324713 1.000000724146 293.60000502421 1077 -0.00083228290239315 0.499992 406.28144302839 161.82865723957
+194	6305190 58005 2506 377532 1.000000730625 373.600001020744 1361 0.076819132174999 0.499992 498.2859555003 199.36500425974
+195	6363195 21042 2531 188495 1.000000732722 131.300000662193 507 -0.00048010718743944 0.499992 206.40064782155 91.836907333237
+196	6384237 56307 2553 377599 1.000000735416 373.60000306956 1340 0.24296847296 0.499992 503.51350173472 196.72155247713
+197	6440544 16971 2575 147653 1.000000738211 93.600003980861 384 -0.003748408850022 0.499992 97.089039023837 32.631686189777
+198	6457515 25816 2582 199190 1.000000739077 142.600000746373 577 -1.0421231003032e-05 0.499992 150.99515105598 51.439561086213
+199	6483331 63321 2587 377570 1.000000739695 373.600001894982 1406 0.28738644247264 0.499992 562.36478244855 230.679768675
+200	6546652 41256 2595 304194 1.000000740399 266.300000739136 911 -0.002815099561672 0.499992 318.11674657667 131.45982702507
+201	6587908 50568 2597 377578 1.000000740743 373.600002266458 1202 0.30808421536 0.499992 487.56356575296 201.51444330215
+202	6638476 23275 2602 200112 1.000000741403 143.60000074132 553 -0.0048526220640748 0.499992 225.49077034735 98.538783879312
+203	6661751 63753 2606 377517 1.00000074156 373.600000734351 1416 0.30187683004158 0.499992 574.46891509227 238.05954266667
+204	6725504 66766 2612 377518 1.000000742062 373.600000736131 1478 0.010315422459511 0.499992 549.22189162915 222.5187092529
+205	6792270 26408 2649 220276 1.000000746263 165.600004608332 627 -0.0097995425535043 0.499992 259.96262921694 115.02679788573
+206	6818678 29158 2666 250942 1.00000074827 200.600003923871 736 -0.0069013324086156 0.499992 277.71616144616 112.91870308814
+207	6847836 55205 2671 377606 1.000000748629 373.600003520835 1285 0.291728784066 0.499992 492.15135548577 193.42505592144
+208	6903041 18718 2672 154958 1.000000748803 99.600003563285 423 -0.00076352422083917 0.499992 111.9356332334 38.217378596818
+209	6921759 56803 2678 377519 1.000000749103 373.600000779689 1381 0.2713366272 0.499992 535.2841675232 213.54651205793
+210	6978562 66307 2740 377591 1.000000757443 373.600002789173 1471 0.27940605137338 0.499992 582.13831498807 236.78951828769
+211	7044869 56144 2768 356161 1.000000760096 340.300000760007 1256 -0.00046768040439084 0.499992 340.13096116573 116.89991644662
+212	7101013 59341 2770 377555 1.000000760436 373.600001487602 1319 0.23050505575496 0.499992 496.70170917042 195.78445840927
+213	7160354 46626 2782 315967 1.000000761217 281.600001806538 1085 -0.00058830250394273 0.499992 424.54426692821 173.48597320204
+214	7206980 24635 2790 142470 1.000000762169 89.600001739982 558 -0.0043478785176671 0.499992 145.60579586417 49.723241224327
+215	7231615 56900 2804 247503 1.000000763846 196.600004921614 1281 -0.0011020586761596 0.499992 352.87380828648 126.83052616705
+216	7288515 31997 2805 212844 1.000000763915 157.60000093226 739 -0.0031447859040163 0.499992 313.5114991459 139.98125481277
+217	7320512 26466 2808 225496 1.000000763955 171.600001929135 629 -0.011168132948533 0.499992 267.08968248428 120.10032587404
+218	7346978 61898 2830 377609 1.000000767516 373.600004093002 1374 0.23874504717151 0.499992 519.84249201817 205.26610830666
+219	7408876 55008 2861 366151 1.000000770921 355.600001275537 1214 -0.01203666623282 0.499992 410.89901599863 151.60565707208
+220	7463884 26993 2905 367997 1.000000776274 358.300001242834 618 0.34595904845107 0.499992 266.52736934259 116.61083186754
+221	7490877 52845 2932 353527 1.000000779041 336.300000778332 1242 -0.00057940919906301 0.499992 464.19373371726 192.56258276337
+222	7543722 28860 2949 211147 1.00000078009 155.600001610098 644 -0.0011528574781461 0.499992 167.74127191236 57.448121508809
+223	7572582 49095 2964 344543 1.00000078211 322.60000077806 1132 -0.0028307834222968 0.499992 455.36399019055 190.80184390288
+224	7621677 33334 2976 268214 1.000000783156 221.300000741747 779 -0.0020655886940205 0.499992 276.26965665761 114.50187353723
+225	7655011 36047 2985 289966 1.000000783531 247.600003528076 867 -0.0091257712072717 0.499992 359.83579006025 156.51236285137
+226	7691058 23630 3008 199758 1.000000785899 143.300000785656 528 -0.00014278429248794 0.499992 143.0737436661 49.64692720365
+227	7714688 18099 3014 175206 1.000000786704 117.600002320871 432 -0.0093036185987069 0.499992 179.57561667101 80.928639674418
+228	7732787 30207 3028 201034 1.000000787662 144.600000780028 684 -0.00012344961065468 0.499992 201.79377917867 75.740045982028
+229	7762994 52538 3037 343892 1.000000788472 321.600001002815 1147 -0.00026720832366873 0.499992 180.85662889189 50.202758372934
+230	7815532 44038 3043 283517 1.000000788938 239.600001336273 1004 -0.00066958654846519 0.499992 418.34867685516 183.20665114179
+231	7859570 62570 3059 377541 1.000000790902 373.600001183265 1388 0.086485827213549 0.499992 556.49831379205 229.61605967027
+232	7922140 26013 3069 201590 1.000000791774 145.300000790872 581 -0.0010178645519 0.499992 154.76656166326 53.894613015435
+233	7948153 77196 3092 377584 1.00000079355 373.600002412574 1697 0.024565690768025 0.499992 409.71570793953 136.18844571371
+234	8025349 23826 3122 210329 1.000000797679 154.600002466411 578 -0.0029457710568186 0.499992 248.84193920127 112.86204097919
+235	8049175 60674 3137 372494 1.000000799157 365.600000764213 1346 -0.0083235411034489 0.499992 505.63052452818 202.5249677071
+236	8109849 41575 3202 303872 1.000000805725 265.600001597203 948 -8.550932018934e-06 0.499992 311.48573759238 125.49370432514
+237	8151424 55068 3207 377522 1.000000806481 373.600000865789 1305 0.27875242752 0.499992 510.5847876736 205.13667598837
+238	8206492 57533 3224 355530 1.000000807978 339.300000807479 1303 -0.00070351083930749 0.499992 500.4350194228 201.28004955125
+239	8264025 53408 3250 371957 1.000000810706 364.600004540624 1263 -3.420054983609e-05 0.499992 450.516864289 172.19350513503
+240	8317433 33594 3262 281016 1.000000811718 236.600000811309 798 -0.018216544546127 0.499992 322.26689815944 135.38375065053
+241	8351027 20774 3269 183678 1.000000812304 126.300000788 490 -0.00087597802854949 0.499992 120.16507491437 39.781366923473
+242	8371801 72786 3275 377574 1.000000813219 373.600002020852 1618 0.21260433377392 0.499992 598.26747289916 232.82647822664
+243	8444587 40078 3291 311532 1.000000814457 275.600002766123 964 -0.013045563434802 0.499992 378.55476647018 156.20518827646
+244	8484665 54275 3298 377604 1.000000814772 373.60000345467 1292 0.30801674336 0.499992 523.48788186592 216.12553815898
+245	8538940 54921 3310 343947 1.000000815562 321.600001864389 1227 -0.013439229898633 0.499992 497.47604956609 209.00758878281
+246	8593861 45679 3327 307674 1.000000817508 270.600001328739 1021 -0.0062558735363976 0.499992 324.34325772953 119.79536084678
+247	8639540 41991 3363 279824 1.000000821292 235.300000738723 943 -0.00085228445731533 0.499992 330.03194674508 132.96040941322
+248	8681531 42569 3365 278228 1.000000821758 233.300000820494 950 -0.00026723796775596 0.499992 342.6816805534 142.83164402564
+249	8724100 41979 3369 277400 1.00000082191 232.300000815584 951 -0.0028238881228174 0.499992 337.96647205062 137.87489160764
+250	8766079 32383 3372 255074 1.000000822077 205.60000137651 771 -0.0080886253256627 0.499992 318.01305449219 138.83775860239
+251	8798462 46401 3378 328161 1.000000822821 298.600001262251 1033 -0.01159984250681 0.499992 425.63008464102 182.90335633355
+252	8844863 21304 3393 199377 1.000000824084 142.600002008157 508 -0.0094712798375208 0.499992 218.52270259205 99.739920490066
+253	8866167 44379 3414 292209 1.00000082697 250.600001418034 997 -0.0010211020192818 0.499992 376.05309858975 160.57623307426
+254	8910546 54546 3415 377520 1.000000827107 373.600000804667 1284 0.17623471724483 0.499992 514.78282916588 212.3469742133
+255	8965092 50880 3423 377565 1.000000828189 373.600001759488 1188 0.24678471744001 0.499992 446.35144946592 174.11658181761
+256	9015972 63215 3431 377583 1.000000828712 373.600002402924 1402 0.26712626569911 0.499992 547.47074090575 220.67924357401
+257	9079187 23023 3444 197015 1.000000830093 140.300000828741 514 -0.0025536312427085 0.499992 125.59229311766 41.384100951285
+258	9102210 35717 3454 284696 1.000000830691 241.3000007603 839 -0.0013132887349978 0.499992 290.51380184715 119.50874946698
+259	9137927 42254 3458 313633 1.000000830941 278.600000829759 988 -0.001202915122546 0.499992 371.82191445383 155.04876974705
+260	9180181 38587 3460 293082 1.00000083119 251.600003000739 890 -0.01094616082153 0.499992 352.64118944099 147.52939272642
+261	9218768 63459 3474 377593 1.000000832117 373.600002885002 1420 0.28821800189617 0.499992 569.94733125694 234.58149035519
+262	9282227 26114 3477 185684 1.000000832253 128.300000832039 595 -0.0027204386500563 0.499992 177.44535051553 67.759778418609
+263	9308341 16205 3548 153401 1.000000838365 98.600000838365 367 -0.017713461484427 0.499992 123.31153389478 45.659034365797
+264	9324546 63159 3563 321732 1.000000839564 289.600001036936 1396 -0.00010761407816298 0.499992 381.29364737888 131.71444406284
+265	9387705 37797 3565 279530 1.000000839669 234.600002333153 888 -0.0076064718837311 0.499992 361.58879901647 152.79434205782
+266	9425502 27776 3568 366675 1.000000839994 356.300001084083 630 0.40682102721092 0.499992 287.59292524134 131.83369645265
+267	9453278 32364 3588 261023 1.000000841878 212.600001178219 764 -0.016307751565727 0.499992 318.48947442532 137.94722815306
+268	9485642 27327 3597 224453 1.000000842772 170.600000842569 646 -0.022127608806032 0.499992 276.84704509309 123.60509457181
+269	9512969 41420 3607 281532 1.000000843828 237.300000843827 927 -0.00385218645842 0.499992 343.45670224373 146.74252196901
+270	9554389 69602 3638 377594 1.000000846025 373.600002885174 1565 0.20522292012551 0.499992 574.64544554775 223.27114467842
+271	9623991 53893 3649 377602 1.000000847372 373.600003264503 1278 0.25073626368 0.499992 482.9957328512 189.28611240385
+272	9677884 73869 3662 377521 1.000000848248 373.60000084822 1646 0.015244115135166 0.499992 576.95552644097 221.69478490848
+273	9751753 52509 3673 377536 1.000000849057 373.600001113903 1275 0.3094949088 0.499992 517.469859352 213.91854350391
+274	9804262 44629 3677 351946 1.000000849435 333.600003196924 1036 -0.0021733179970285 0.499992 366.9448488641 148.18923352931
+275	9848891 26788 3693 226348 1.000000851302 172.600001586841 640 -0.016280634084003 0.499992 275.86757829241 124.30406884679
+276	9875679 52914 3696 341594 1.000000851394 318.300000851169 1175 -0.0014614897769212 0.499992 429.68989195799 175.6997195118
+277	9928593 23216 3697 197951 1.000000851574 141.300000847912 518 -0.00022319411601478 0.499992 128.54385602983 42.158109814283
+278	9951809 61733 3702 337110 1.000000851799 311.600000851696 1394 -0.0081159205861122 0.499992 564.82961941951 235.99074775961
+279	10013542 20667 3729 188221 1.000000854322 130.600002535129 494 -0.021987039490867 0.499992 213.8356333866 97.975418921785
+280	10034209 34004 3738 262072 1.000000854685 213.600006081183 756 -0.018275473032051 0.499992 244.7342872567 88.379009241775
+281	10068213 55029 3764 377590 1.00000085677 373.600002719276 1304 0.27454104288 0.499992 507.48444097504 203.08996833235
+282	10123242 17870 3784 168804 1.000000858466 111.600002581557 432 -0.011103991524002 0.499992 182.76648252575 81.902983606568
+283	10141112 51692 3813 377534 1.00000086103 373.600001083722 1247 0.2996610432 0.499992 500.1171294624 204.78235828932
+284	10192804 47794 3819 353236 1.000000861271 335.600001800706 1130 -0.0011006203743203 0.499992 463.57562754835 195.4808677157
+285	10240598 58162 3862 364238 1.000000864776 352.600001368824 1298 -0.0021620548030093 0.499992 491.51580122203 204.94801252251
+286	10298760 21817 3863 315108 1.000000864791 280.30000172938 527 0.40744026816 0.499992 238.57197478816 108.39904790255
+287	10320577 20640 3897 185686 1.000000867291 128.300000834459 462 -0.00067793953863909 0.499992 124.13537816845 43.783596507231
+288	10341217 50167 3909 351177 1.000000867864 332.600000866731 1166 -0.00020842432237613 0.499992 433.25159680703 179.28570198777
+289	10391384 46686 3923 300867 1.000000868959 261.600003351661 1042 -0.019016441112537 0.499992 429.93035179165 183.3205008548
+290	10438070 28558 3929 249934 1.000000869227 199.600001488498 679 -0.0095634278267349 0.499992 286.39574268383 125.60012999354
+291	10466628 27625 3972 211930 1.000000871998 156.600000881206 615 -0.00051986112123091 0.499992 157.01546066142 52.531749523955
+292	10494253 60101 3974 377524 1.000000872202 373.600000870989 1352 -0.012475543444598 0.499992 525.75354568195 213.99786346361
+293	10554354 24093 3984 369087 1.000000872958 360.300000888267 539 0.36482748499902 0.499992 229.75503245111 98.876284005627
+294	10578447 84270 4031 377523 1.00000087595 373.600000870281 1867 0.048158202100113 0.499992 633.66474626608 235.76417760862
+295	10662717 53279 4044 369979 1.000000876855 361.600001278775 1225 -0.01580026707194 0.499992 469.33196877083 187.24674825195
+296	10715996 18300 4100 176078 1.000000880551 118.600001214735 440 -0.014514391166315 0.499992 193.43427494699 89.270305187579
+297	10734296 53698 4106 377525 1.000000881273 373.600000878306 1275 0.041833774241553 0.499992 457.37923439622 178.02620196355
+298	10787994 30566 4136 267126 1.000000883517 219.600003706803 759 -0.014057740988575 0.499992 321.76429347055 141.45089796977
+299	10818560 18696 4138 161980 1.000000883594 105.600002176524 422 -0.00012785656038511 0.499992 111.63742250666 38.480338063405
+300	10837256 47842 4141 349896 1.000000883957 330.600001295887 1140 -0.023849702393997 0.499992 467.73674825516 197.31427810449
+301	10885098 55121 4181 285051 1.000000888008 241.600000887706 1231 -8.2788897791853e-05 0.499992 459.2324290146 193.21844309986
+302	10940219 20461 4199 157110 1.000000889021 101.600001292266 472 -0.0074434763905721 0.499992 206.29142345083 94.140995926947
+303	10960680 50507 4248 362698 1.000000891443 350.300000891403 1161 -0.0034757877211942 0.499992 427.53284865636 176.86703024305
+304	11011187 23474 4261 189193 1.000000892259 131.600002865535 526 -0.0028853590499342 0.499992 136.31003595729 46.511220941826
+305	11034661 44522 4270 323603 1.000000892985 292.300000879596 1051 -0.0019061223157359 0.499992 394.11993816739 163.64108657049
+306	11079183 60639 4282 311404 1.000000893672 275.60000088198 1356 -0.00071539549466033 0.499992 446.50311473292 168.17841155134
+307	11139822 31707 4300 271661 1.000000895302 225.300000894881 763 -0.0006084695921669 0.499992 277.15173101709 117.52440775064
+308	11171529 27982 4328 239519 1.00000089736 187.600001522464 667 -0.026125682632191 0.499992 290.97202715675 131.07782089857
+309	11199511 55951 4337 341230 1.000000897793 317.600001360264 1245 -0.022686291880669 0.499992 480.89074956282 194.29270695547
+310	11255462 22364 4346 186220 1.000000898417 128.60000191576 509 -0.0016619825910799 0.499992 127.30438804013 42.4212148208
+311	11277826 53406 4356 343644 1.000000899109 321.300000894458 1186 -0.0023149910390319 0.499992 452.15569173821 189.65180900462
+312	11331232 37537 4363 280765 1.000000899804 236.300000899802 865 -0.00031784246069614 0.499992 307.14878356061 128.36586482381
+313	11368769 55719 4369 377610 1.00000090011 373.600004318588 1278 -0.0010165417974363 0.499992 476.87312526479 186.28440640873
+314	11424488 44620 4371 318119 1.000000900326 284.60000090991 984 -8.3847294243876e-05 0.499992 254.4827174878 86.197273388893
+315	11469108 34251 4376 249567 1.00000090079 199.30000090079 765 -0.0045576408382785 0.499992 263.4465397844 102.9522173286
+316	11503359 59659 4446 377550 1.000000904383 373.60000137332 1325 0.27005065690927 0.499992 518.81493217075 209.47754329309
+317	11563018 19549 4461 172532 1.000000905395 115.300000897137 439 -0.00096122446202338 0.499992 109.5888430463 36.722044103661
+318	11582567 52901 4489 356915 1.000000907839 341.300000907806 1235 -0.0025835389539961 0.499992 424.85369905153 164.41783969567
+319	11635468 43732 4498 295371 1.000000908219 254.600001920362 972 -0.024842936664558 0.499992 331.94527333589 136.22799565674
+320	11679200 47546 4500 350299 1.000000908289 331.300000906728 1118 -0.003297919421041 0.499992 412.78113421224 171.46959112445
+321	11726746 32049 4518 258424 1.000000909597 209.600000935657 772 -0.019386924014803 0.499992 314.11764468382 133.07593067822
+322	11758795 37058 4551 279950 1.000000911584 235.300000911562 856 -0.001432987431763 0.499992 311.21420222979 131.61392276053
+323	11795853 54881 4603 377605 1.000000914743 373.600003479005 1298 0.22654466687999 0.499992 474.5974883392 181.79050954221
+324	11850734 39780 4634 280773 1.000000916862 236.300000912317 888 -0.0028323444778667 0.499992 323.40633879038 136.7941910239
+325	11890514 43700 4639 315272 1.000000917039 280.600003002589 1012 -0.023127077365973 0.499992 406.43043292054 168.49413762847
+326	11934214 20967 4666 186680 1.000000919029 129.300000850007 469 -0.0026962990380402 0.499992 122.15714787184 41.965311411319
+327	11955181 73376 4667 326760 1.000000919088 296.600001373607 1669 -0.025012201403605 0.499992 640.83256814993 256.08121555556
+328	12028557 42047 4680 332396 1.000000919442 304.600002293488 1015 -0.0063533489500014 0.499992 422.1139294815 179.82638779821
+329	12070604 34953 4711 260977 1.000000921588 212.600000915381 776 -0.0072754761900831 0.499992 284.2514004747 118.40633221165
+330	12105557 17203 4756 161381 1.000000924414 105.300000924392 387 -0.00038509188314166 0.499992 98.628471653343 33.104610202361
+331	12122760 19870 4760 180076 1.000000924552 122.600000954873 478 -0.023153209308309 0.499992 213.15094339259 98.553228567688
+332	12142630 39645 4761 308555 1.000000924599 271.600005519294 941 -0.023866404810185 0.499992 363.41924412208 146.27065029433
+333	12182275 36386 4799 275827 1.000000927 230.300000922707 807 -0.0010364273538094 0.499992 280.79733001594 112.84423351116
+334	12218661 22112 4830 193006 1.000000928737 135.600004796333 531 -0.02882436824612 0.499992 230.22764413236 103.31685653434
+335	12240773 64699 4833 377579 1.000000928793 373.600002267852 1436 0.27315836612233 0.499992 565.51191160589 229.35309441896
+336	12305472 60975 4841 377566 1.000000929337 373.600001764258 1382 0.2151578939679 0.499992 509.97964342736 198.48429823031
+337	12366447 57117 4858 377603 1.000000930138 373.600003283855 1306 0.27072034975999 0.499992 506.37859438079 202.12227990966
+338	12423564 47864 4862 306886 1.00000093044 269.600001132806 1074 -0.0042166557562517 0.499992 452.34099201719 196.34218158322
+339	12471428 21128 4869 183791 1.000000930958 126.300000930812 473 -0.0003061157189598 0.499992 115.08917443409 37.623346047141
+340	12492556 19568 4872 182087 1.000000931084 124.600000930836 438 -0.033550991495343 0.499992 118.50352878361 39.628703248705
+341	12512124 20411 4884 185065 1.000000931805 127.600000930675 457 -0.00038209252002057 0.499992 113.67544948147 37.583217272535
+342	12532535 14748 4909 148712 1.000000933591 94.600001790311 333 -0.0027828760241148 0.499992 82.812270725231 27.693450110291
+343	12547283 48126 4930 377545 1.000000934441 373.600001313597 1144 0.25500867264 0.499992 427.6496496848 165.96703094152
+344	12595409 23974 4944 202607 1.000000935292 146.300000928948 535 -0.0006181119715124 0.499992 137.25960252379 46.612550773463
+345	12619383 57490 4950 377581 1.000000935545 373.600002295476 1267 0.075310936401307 0.499992 374.68777893942 130.34573273916
+346	12676873 21138 5013 165215 1.00000093936 108.60000096978 494 -0.013249998059513 0.499992 222.55862559078 103.92536717517
+347	12698011 58851 5050 377559 1.000000941261 373.600001630507 1297 0.17174438561376 0.499992 438.82471563283 160.24800403926
+348	12756862 58670 5056 326500 1.000000941705 296.30000093669 1306 -0.0014463398864321 0.499992 452.44457879168 175.20830831296
+349	12815532 26504 5069 200800 1.000000942101 144.300000937669 599 -0.0022637555148515 0.499992 168.9368003603 62.437220799794
+350	12842036 49535 5078 361015 1.000000942784 347.600000918991 1162 -0.00028415100626457 0.499992 420.89841956968 173.01803916392
+351	12891571 52823 5100 377526 1.000000944363 373.600000923965 1217 0.28752173567999 0.499992 480.49940272896 194.36144027783
+352	12944394 35822 5110 259449 1.000000944939 210.60000257608 810 -0.00084530447472319 0.499992 301.86148325513 127.81019044384
+353	12980216 19619 5133 189000 1.000000946155 131.600001132732 471 -0.023792250652005 0.499992 210.40154899922 97.232599678297
+354	12999835 53013 5189 377528 1.000000950094 373.60000094524 1237 0.14122298711022 0.499992 470.80816844348 188.0363824615
+355	13052848 28848 5190 217344 1.000000950174 162.600000949953 650 -0.00019311114887309 0.499992 219.3198931121 85.230881863313
+356	13081696 21139 5198 187332 1.000000951109 129.600003994908 482 -0.0019472970375727 0.499992 125.40865831558 42.831133128126
+357	13102835 37200 5200 256473 1.000000951293 207.300000935533 832 -0.0016306332829702 0.499992 308.47793396077 132.50041563197
+358	13140035 50727 5267 330326 1.000000955876 301.600002552488 1127 -0.012551846257704 0.499992 463.81097348104 195.91520221848
+359	13190762 39232 5270 301565 1.00000095604 262.600001728066 876 -0.033371687513241 0.499992 315.15373771374 119.33876346101
+360	13229994 40929 5279 318223 1.000000956652 284.600002508053 971 -0.024097968925235 0.499992 380.37700971271 154.5220752132
+361	13270923 35797 5290 266680 1.000000957093 219.300000948039 794 -0.0012603851005345 0.499992 271.7041417769 109.36722309606
+362	13306720 57362 5312 308178 1.000000958494 271.300000958152 1303 -0.0021471652215887 0.499992 494.33599934568 206.90786895712
+363	13364082 35435 5323 294521 1.000000958843 253.600001166306 900 -0.013548423475353 0.499992 373.04056699218 159.64635674908
+364	13399517 55570 5344 377537 1.00000095976 373.600001114946 1268 0.29384223327999 0.499992 505.28046603551 205.92538087718
+365	13455087 20797 5391 355774 1.000000963216 339.300001211781 501 0.41943179904 0.499992 229.91162028608 105.79104206628
+366	13475884 16058 5419 156030 1.000000965207 100.60000198549 369 -0.0036826806418567 0.499992 93.462907603599 31.474129129822
+367	13491942 52885 5428 377530 1.000000965663 373.600000991601 1175 0.34852481358907 0.499992 495.54007431663 211.39030961827
+368	13544827 55034 5499 355847 1.000000970194 339.600001208391 1222 -0.036101184680281 0.499992 502.90129211596 212.46900940819
+369	13599861 23104 5502 186778 1.000000970446 129.300000966121 517 -0.0014821752567442 0.499992 133.94190639448 46.26790633411
+370	13622965 17685 5506 168850 1.000000970827 111.600003293929 398 -0.0010472278140926 0.499992 101.32140964876 33.977487814149
+371	13640650 41688 5540 289593 1.000000973077 247.300000970281 929 -0.001495356266271 0.499992 345.68287219917 146.90933816267
+372	13682338 53341 5567 377542 1.000000974382 373.600001200436 1219 0.28108407551999 0.499992 477.66327290815 192.09887140856
+373	13735679 47733 5594 351681 1.000000976122 333.300000972065 1117 -0.0022417274904694 0.499992 408.54685249238 169.39405678994
+374	13783412 22721 5600 184824 1.000000976597 127.300000976217 515 -0.0049554790770339 0.499992 151.19221877204 57.721635774752
+375	13806133 60281 5619 377529 1.000000977593 373.600000976871 1334 0.21130612422792 0.499992 528.29001004873 215.45552754514
+376	13866414 41704 5624 300811 1.000000977781 261.60000205011 999 -0.0083652803659591 0.499992 424.61459102923 184.04890065205
+377	13908118 19115 5626 180414 1.000000977853 122.600005027874 431 -0.015640995799736 0.499992 157.9137113476 61.631091799988
+378	13927233 14513 5641 149783 1.000000978586 95.60000102809 336 -0.010412609163311 0.499992 137.7036315328 58.980759640185
+379	13941746 47188 5644 324679 1.000000978742 293.600002394867 1061 -0.023362693844861 0.499992 444.08280383125 190.24203204489
+380	13988934 52172 5666 377580 1.000000980278 373.600002267922 1235 0.28389547008 0.499992 485.37421589504 195.60403172212
+381	14041106 22310 5728 196348 1.00000098388 139.300001246685 498 -6.2625602053219e-05 0.499992 128.96088013859 43.1566462676
+382	14063416 54431 5740 377586 1.000000984899 373.600002572269 1286 0.28400153087999 0.499992 505.0293957568 203.34727374588
+383	14117847 35662 5752 280841 1.000000985923 236.300000982265 821 -0.0016557290521879 0.499992 289.64314633731 121.50533736123
+384	14153509 37682 5758 293820 1.000000986336 252.600002063854 896 -0.017381054321998 0.499992 380.03946367721 164.86465517101
+385	14191191 25163 5765 217128 1.000000986755 162.300000980929 559 -0.00061913743385094 0.499992 139.95529316689 46.702209386216
+386	14216354 37374 5777 286761 1.000000987496 243.600002180473 905 -0.025782024242001 0.499992 379.91719817569 163.39883950923
+387	14253728 48987 5784 351684 1.000000987829 333.300000972425 1136 -0.0039992896506109 0.499992 419.02182270649 171.73328988583
+388	14302715 18739 5789 181799 1.000000987896 124.300000933887 420 -0.00029960957345827 0.499992 110.09800523186 37.089485450535
+389	14321454 24239 5837 191951 1.000000991064 134.600002082404 548 -0.00084853921651398 0.499992 155.7722821091 57.465838461206
+390	14345693 39847 5861 302071 1.000000992569 263.300000984643 920 -0.00081163118713056 0.499992 316.25962520701 126.8229729064
+391	14385540 38968 5889 270077 1.000000993729 223.300000979977 868 -0.0010553394734218 0.499992 274.65774367962 103.29812521448
+392	14424508 24389 5892 189686 1.000000994008 132.30000099396 562 -0.0011138308435655 0.499992 164.73262405465 62.261345565336
+393	14448897 50395 5911 377531 1.000000995052 373.600001020614 1116 0.32308808405207 0.499992 460.28210380701 192.76698316621
+394	14499292 25451 5929 200851 1.000000995969 144.30000099401 584 -0.00055179490776485 0.499992 154.91558542039 56.315175074444
+395	14524743 52138 5951 358474 1.000000997333 343.600001588941 1148 -0.018954580086384 0.499992 443.44712727896 177.82178170831
+396	14576881 43718 5986 330755 1.000000999737 302.300000980414 1019 -0.0016448943627562 0.499992 397.08365498715 163.40133911929
+397	14620599 30440 5989 267806 1.000000999904 220.600001243978 724 -0.033611811087711 0.499992 315.8904059794 141.33971607744
+398	14651039 56780 5994 369323 1.000001000184 360.60000096568 1271 -0.0095329455202573 0.499992 441.93193806963 166.12616294493
+399	14707819 21568 5997 171865 1.000001000274 114.600001182105 493 -0.030847800779653 0.499992 185.60071700286 74.826866057026
+400	14729387 25184 6055 233409 1.000001003262 180.600001688303 602 -0.017531298634802 0.499992 258.42969767167 113.65349583205
+401	14754571 57356 6114 377608 1.000001006399 373.600003727109 1260 0.02711780307925 0.499992 337.14854293367 113.82866921516
+402	14811927 24727 6121 189689 1.00000100666 132.300000998454 560 -9.9185515259285e-05 0.499992 149.18785405977 53.794520913723
+403	14836654 38273 6124 307013 1.000001007042 269.600003213539 911 -0.0089051673599992 0.499992 383.74036667264 164.95095434339
+404	14874927 33283 6173 267772 1.000001009535 220.600001009531 788 -0.0034368173712432 0.499992 336.35166241657 146.58200843504
+405	14908210 22733 6192 374903 1.000001010392 369.300001031796 519 0.41171466272267 0.499992 238.62634504789 110.14332504138
+406	14930943 45009 6200 318673 1.000001010763 285.300000984559 1001 -0.0046575794182417 0.499992 334.05118953088 127.65397486891
+407	14975952 53123 6237 347884 1.000001013406 327.60000102758 1187 -0.032295891096196 0.499992 475.07692584259 196.14139204106
+408	15029075 44765 6421 295364 1.000001024188 254.600001856164 996 -0.0072621155861446 0.499992 398.44278323506 168.97618422958
+409	15073840 36161 6431 291982 1.000001024879 250.300001015901 831 -0.00028135773804546 0.499992 292.2444595847 122.10743686152
+410	15110001 27493 6463 225173 1.000001026527 171.300001012417 611 -0.002058278519493 0.499992 157.94395017569 53.608637092618
+411	15137494 33756 6499 246462 1.000001028046 195.600001371725 772 -0.018351276846951 0.499992 337.38573362606 150.64641830844
+412	15171250 54135 6542 377533 1.000001030227 373.600001026217 1241 0.13790509634969 0.499992 468.47208831143 184.94722649781
+413	15225385 43999 6626 310666 1.000001034984 274.600001026087 973 -0.0075632678103838 0.499992 398.60286905841 169.41254615059
+414	15269384 42952 6699 320347 1.000001039269 287.600001518827 1019 -0.037131352956849 0.499992 388.62563263267 154.1244767127
+415	15312336 25861 6701 220724 1.000001039333 166.300001038701 576 -0.00011503686301963 0.499992 188.3013501789 72.941915327374
+416	15338197 30837 6752 164291 1.000001042961 107.600002111929 704 -0.012571419439787 0.499992 239.63743537892 91.088592173727
+417	15369034 39864 6801 266232 1.000001046018 218.60000255738 897 -0.013576141480571 0.499992 342.70633069382 137.2017857251
+418	15408898 44901 6854 335153 1.000001048854 308.60000241849 1068 -0.041257427291539 0.499992 438.26927706949 184.11174653581
+419	15453799 19536 6903 181885 1.00000105207 124.300001046518 438 -0.00047382434995115 0.499992 117.67140298012 40.371280549326
+420	15473335 20451 6913 186836 1.000001052581 129.300001051613 457 -0.00047341104412172 0.499992 114.07145354853 37.219570328674
+421	15493786 21298 6926 174767 1.000001053183 117.300001048311 482 -0.00028978702501901 0.499992 131.95089729514 48.407608509927
+422	15515084 28652 6983 257628 1.000001056485 208.600001300645 682 -0.023671374343555 0.499992 292.04807083596 128.2574892707
+423	15543736 18321 7009 176812 1.000001058111 119.300001026937 411 -0.00020250871819713 0.499992 104.34058489972 35.224979494766
+424	15562057 47514 7040 311269 1.000001059247 275.300001058159 1057 -0.0039437468433886 0.499992 388.45557983757 162.93667278144
+425	15609571 24306 7084 368594 1.000001061414 359.300001098303 548 0.39944557688358 0.499992 247.45828217693 112.3087199732
+426	15633877 24844 7125 210869 1.000001063963 155.300001062209 551 -8.2024111418119e-05 0.499992 133.15517767667 44.331940808463
+427	15658721 37184 7237 283478 1.000001069767 239.600001067838 857 -0.00020342340599502 0.499992 293.82538528492 118.59716933892
+428	15695905 35057 7239 270404 1.000001069951 223.600002046981 778 -0.011418674800037 0.499992 301.12965685913 123.83350705657
+429	15730962 54906 7248 377547 1.000001070302 373.600001349927 1299 0.28670678784 0.499992 512.99699115136 207.53968263797
+430	15785868 17548 7259 167479 1.000001071076 110.600001070228 396 -0.03753313941488 0.499992 125.63136095273 44.680998699913
+431	15803416 23855 7350 226498 1.000001076689 172.600004258269 558 -0.045305085362988 0.499992 221.78166375338 91.444208289493
+432	15827271 58980 7375 377556 1.00000107779 373.600001489992 1303 0.28690754232323 0.499992 516.87859918246 210.20377199398
+433	15886251 47289 7376 339237 1.000001077816 314.600002253498 1042 -0.044173225957808 0.499992 423.22330391333 176.13164205095
+434	15933540 17860 7385 175818 1.000001078146 118.300001076496 400 -0.0048049726400911 0.499992 97.518837925811 32.025425818086
+435	15951400 40946 7386 323974 1.000001078166 292.600002700512 978 -0.058858273834141 0.499992 415.83397863894 180.19037550333
+436	15992346 40680 7390 318958 1.000001078301 285.600002728992 973 -0.014322359047183 0.499992 379.01775721723 152.51352604957
+437	16033026 21824 7443 195336 1.000001081555 138.300001062288 487 -0.0024318452649596 0.499992 131.61369841231 45.55799150578
+438	16054850 55252 7451 377558 1.000001081666 373.600001553011 1224 0.098296642774166 0.499992 369.92626930279 128.40229563611
+439	16110102 16715 7511 166101 1.000001085143 109.300001080149 376 -0.00097601332518329 0.499992 94.753712482635 31.537308275497
+440	16126817 50947 7544 377544 1.000001087381 373.600001243225 1229 0.3017630112 0.499992 494.2456793808 202.82919680528
+441	16177764 53180 7594 357796 1.000001089544 342.600001089041 1171 -0.029335039519868 0.499992 464.26824825739 191.23987295221
+442	16230944 39938 7604 228971 1.000001090342 175.600001390703 896 -0.000137275931024 0.499992 256.82923291371 92.49953641591
+443	16270882 45855 7635 377539 1.000001092517 373.600001136899 1090 0.30339838944 0.499992 439.13727071712 180.44531199372
+444	16316737 51418 7648 330252 1.000001093093 301.600001199602 1141 -0.0076230765898632 0.499992 464.33870747637 193.91724830142
+445	16368155 22384 7679 195353 1.000001094703 138.300001085792 506 -0.00055095696614882 0.499992 144.41171448835 53.371807260296
+446	16390539 20738 7685 171596 1.000001095005 114.30000109474 480 -0.0011420898927781 0.499992 142.26265637454 54.796342198136
+447	16411277 59928 7959 376187 1.000001109149 371.300001099828 1326 -0.00096332021705071 0.499992 492.63402918876 202.98560631505
+448	16471205 18090 7986 155572 1.000001110889 100.30000110962 421 -0.0030194993351563 0.499992 126.46432233631 48.560985477971
+449	16489295 18063 8031 175835 1.000001113171 118.300001108051 404 -0.0016745936618896 0.499992 96.168623749965 31.447667145625
+450	16507358 20840 8079 174795 1.000001115256 117.300001103092 473 -0.0017772172329792 0.499992 133.7049338892 48.676795213177
+451	16528198 57673 8108 373145 1.000001116349 366.600001117251 1275 -0.00048962322022988 0.499992 469.01215682115 182.73592211095
+452	16585871 55627 8150 377585 1.00000111769 373.600002428926 1222 0.041148000442779 0.499992 331.87320189218 111.8099757334
+453	16641498 46176 8252 333018 1.000001123049 305.60000111236 1091 -0.002399528680428 0.499992 451.69126629686 190.90122796947
+454	16687674 21437 8314 189758 1.000001126719 132.300001125665 480 -0.003552518460732 0.499992 124.43749570261 42.140588833168
+455	16709111 55470 8501 377538 1.000001137437 373.60000113141 1238 0.19786417780989 0.499992 475.42178553192 188.76523278665
+456	16764581 30555 8542 237797 1.000001139138 185.600001802284 678 -0.0011160358664476 0.499992 172.89887083199 57.953109655377
+457	16795136 55369 8577 307517 1.000001140783 270.300001132559 1250 -0.00043126382562151 0.499992 469.21210265596 197.39072725781
+458	16850505 17425 8593 174810 1.000001141531 117.30000113373 398 -0.002144620187446 0.499992 98.4979350454 33.090711964924
+459	16867930 51335 8824 377546 1.000001154442 373.600001318344 1238 0.3060021568 0.499992 499.7514097984 205.65878891267
+460	16919265 17795 8924 151955 1.000001159075 97.300001122205 406 -0.0036170206570431 0.499992 117.67501651754 44.012498113857
+461	16937060 35041 9086 257662 1.000001167697 208.600001581504 782 -0.0014851595327125 0.499992 213.59465268821 76.818912394314
+462	16972101 42716 9186 308446 1.000001172623 271.600001487425 930 -0.00029766853365328 0.499992 132.97028415512 37.911308253357
+463	17014817 18998 9217 187129 1.000001174321 129.600001426665 459 -0.065981474879998 0.499992 208.1540894008 96.746172332452
+464	17033815 44894 9491 343254 1.000001190339 320.600001398704 1038 -0.0036251547306956 0.499992 389.88836077556 160.09197003276
+465	17078709 39933 9505 360342 1.000001191132 346.300001312143 898 0.19678140128757 0.499992 372.68213873034 159.92072065199
+466	17118642 31551 9508 263425 1.000001191405 215.300001186685 737 -0.0039600555330461 0.499992 260.59883198217 107.48081951853
+467	17150193 49345 9538 377540 1.000001193276 373.600001183127 1185 0.2791029611824 0.499992 466.91919942712 188.49261807398
+468	17199538 57029 9585 377554 1.000001195064 373.600001483801 1258 0.28224105746278 0.499992 494.01681107444 198.98689404216
+469	17256567 37931 9647 280384 1.000001198437 235.600002882933 847 -0.0017890287842711 0.499992 225.03938284064 79.253307648405
+470	17294498 38140 9661 305406 1.000001199175 267.600001581533 903 -0.0026566922627576 0.499992 351.83066075961 143.09741295758
+471	17332638 53840 9672 377568 1.000001199861 373.600001783121 1280 0.29886504384 0.499992 513.02430818336 209.9696217326
+472	17386478 17999 9678 170987 1.000001200054 113.60000259551 409 -3.621973308373e-06 0.499992 112.32311745409 41.133267458046
+473	17404477 32309 9730 272669 1.000001202599 226.300001190966 758 -0.00088581337860783 0.499992 307.70026123375 133.81025602902
+474	17436786 53425 9742 377548 1.000001203178 373.600001359892 1233 0.30829867967999 0.499992 499.38516931551 206.06525808988
+475	17490211 54855 9758 377576 1.000001204064 373.600002027572 1203 0.00035695036169762 0.499992 304.54539760854 102.28545316106
+476	17545066 43570 9823 325917 1.00000120738 295.300001172594 960 -0.0033881508736606 0.499992 354.82203016934 145.58096689493
+477	17588636 51931 9849 377567 1.000001208902 373.600001778195 1230 0.23448337727999 0.499992 454.36204430624 175.09914595432
+478	17640567 50834 9905 377551 1.000001211741 373.600001419723 1204 0.25936986368 0.499992 458.81632685184 180.73622053728
+479	17691401 19926 10035 180954 1.000001220513 123.30000121244 457 -0.00031936254403283 0.499992 124.67164127331 44.803732546154
+480	17711327 53179 10059 377543 1.00000122183 373.600001223138 1219 0.22076210879999 0.499992 441.25462221919 167.7208513888
+481	17764506 7457 10091 82451 1.000001223383 46.600001214381 170 -0.0066817275270882 0.499992 39.835162770815 12.878056824297
+482	17771963 57064 10342 377552 1.000001238835 373.60000145476 1262 0.16941157165302 0.499992 426.90125544335 156.00008840647
+483	17829027 17399 10455 181206 1.000001245446 123.600001498235 421 -0.088820607667986 0.499992 193.35244891336 90.417811177817
+484	17846426 16936 10537 176961 1.000001250513 119.300001425184 417 -0.00017460377970176 0.499992 190.72861290583 88.44359439096
+485	17863362 25306 10548 214559 1.000001250953 159.300001220988 567 -0.0015271504077519 0.499992 184.18636329129 70.273110290136
+486	17888668 42993 10786 318054 1.000001263908 284.300001256295 949 -0.00044318529742169 0.499992 273.45202234855 94.005084286246
+487	17931661 16065 10994 168730 1.000001276294 111.600001878596 396 -0.045196356190834 0.499992 179.72446182975 82.752888059509
+488	17947726 24376 11159 219215 1.000001285415 164.600001514352 542 -0.0023575826499244 0.499992 136.77115735013 46.219362930674
+489	17972102 16993 11208 169497 1.000001288091 112.300001285202 382 -0.0015323885613911 0.499992 98.351520731285 33.446887583527
+490	17989095 23435 11343 212764 1.000001296632 157.300001287633 522 -0.001254573120369 0.499992 131.70199625444 44.103336834506
+491	18012530 19164 11352 189969 1.000001297017 132.600001293582 458 -0.025497063322052 0.499992 207.46114825511 95.213092441363
+492	18031694 52275 11496 377569 1.000001306182 373.600001890463 1214 0.19434434862406 0.499992 469.38644534618 190.10027679627
+493	18083969 23891 11634 203709 1.000001314521 147.300001304156 535 -0.00028012958039151 0.499992 141.19078242011 50.492548144133
+494	18107860 55175 12035 377561 1.000001339023 373.600001643558 1244 0.2952568111833 0.499992 498.86081135263 204.63414180105
+495	18163035 50528 12171 377560 1.000001347386 373.600001633473 1186 0.29703797471999 0.499992 473.2351287504 192.93370182097
+496	18213563 5291 12235 63446 1.000001351299 33.600001341314 121 -0.0096223461590531 0.499992 30.497479242998 10.388139884671
+497	18218854 35212 12483 281976 1.000001366273 237.600002197559 777 -0.00099066397229315 0.499992 197.20165475622 66.2938754661
+498	18254066 15995 12535 171976 1.000001369321 114.600001761602 388 -0.019443030132329 0.499992 180.68144549611 84.918901928439
+499	18270061 27104 12564 239496 1.000001371339 187.600001367081 611 -0.0045057784188759 0.499992 243.17796787521 105.63849619041
+500	18297165 10889 16779 376986 1.9 372.9 372 0 0.9 190.474 131.36362533333
+
