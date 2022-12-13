@@ -115,7 +115,7 @@ void Base::deleteAGateToBGate(cModule * childNodeHandle,cModule * parentNodeHand
     childNodeHandle->deleteGate("parent");
 }
 void Base::FindNodeWithinDistance(){
-    //EPDA里，切片不分发给Server
+    //EPDA切片不分发给Server
     for(int i=0;i<NodeNumber_;++i){
         Base *object = check_and_cast<Base *>(getParentModule()->getSubmodule("nodes", i));
         //该节点不是自己，且不是自己 (this->calculateDistance(object) !=0)

@@ -23,7 +23,6 @@ void Server::initialize(){
         scheduleAt(i+0.6,new cMessage("DataAggregateSignal"));
         scheduleAt(i+0.9,new cMessage("ReadDateSignal"));
     }
-
 }
 void Server::handleMessage(cMessage *msg){
     if(isLive_ == false || InitEnergy_ <=0)return;
